@@ -1,1 +1,1 @@
-# Demo-Finetune-Whisper
+# Finetune-Whisper-Tiny
